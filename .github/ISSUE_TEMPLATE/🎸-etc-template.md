@@ -1,11 +1,21 @@
 ---
-name: Bug report
-about: 버그 리포트 이슈 템플릿
-title: "[BUG]"
+name: "\U0001F3B8 ETC Template"
+about: 기타 자유양식 템플릿
+title: "[FEAT]/[BUG]"
 labels: ''
 assignees: ''
 
 ---
+
+## 😏 어떤 기능인가요?
+
+> 추가하려는 기능에 대해 간결하게 설명해주세요
+
+## ✏️ 작업 상세 내용
+
+- [ ] TODO
+- [ ] TODO
+- [ ] TODO
 
 ## ⚠️ 어떤 버그인가요?
 
