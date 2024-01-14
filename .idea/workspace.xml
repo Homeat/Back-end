@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c6035ca-2984-47a6-a031-4cfe68a36615" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.ebextensions-dev/00-makeFiles.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ebextensions-dev/01-set-timezone.config" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/dev_deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/dev_deploy.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -97,7 +99,7 @@
       <workItem from="1705181301247" duration="61000" />
       <workItem from="1705181365285" duration="914000" />
       <workItem from="1705182286869" duration="1060000" />
-      <workItem from="1705184389999" duration="3070000" />
+      <workItem from="1705184389999" duration="4536000" />
     </task>
     <servers />
   </component>
